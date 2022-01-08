@@ -1,0 +1,47 @@
+$primary: rgb(93, 52, 139);
+
+.register {
+  display: flex;
+  padding: 0 1rem;
+  animation: fade-in 1s;
+
+  .right {
+    flex: 1.5;
+    height: 50rem;
+    background-image: url('https://res.cloudinary.com/rylanzhou/image/upload/v1634794209/Group_Chat_Illustration_yiospp.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .left {
+    flex: 1;
+    height: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 1.2rem;
+
+    .form {
+      width: 80%;
+      margin-top: 1rem;
+
+      .avatar {
+        box-sizing: border-box;
+        cursor: pointer;
+
+        &:hover {
+          border: 1px solid $primary;
+        }
+      }
+
+      .ant-form-item-has-error {
+        animation: shake 1s ease;
+      }
+
+      .ant-row {
+        margin-bottom: 1rem !important;
+      }
+    }
+  }
+}

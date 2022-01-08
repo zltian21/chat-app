@@ -1,0 +1,31 @@
+.login {
+  display: flex;
+  padding: 0 1rem;
+  animation: fade-in 1s;
+
+  .left {
+    flex: 1.5;
+    height: 50rem;
+    background-image: url('https://res.cloudinary.com/rylanzhou/image/upload/v1634794209/Group_Chat_Illustration_yiospp.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .right {
+    flex: 1;
+    height: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .form {
+      width: 80%;
+      margin-top: 1rem;
+
+      .ant-row {
+        margin-bottom: 1rem !important;
+      }
+    }
+  }
+}
