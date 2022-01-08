@@ -1,15 +1,3 @@
-# chatapi-team-r
-
-chatapi-team-r created by GitHub Classroom
-
-> Note:Kindly refer to "resources" folder for all the Documentation
-
-### We are team R
-
-##### Team Name
-
-**Rice**
-
 ##### Team Lead
 
 **Solomon Alfa**
@@ -25,14 +13,6 @@ chatapi-team-r created by GitHub Classroom
 ##### Developers
 
 **Chiao-Yu Pai**, **Letian Zhang**, **Yunan Zhou**
-
-##### Presentation time
-
-**Wednesday HH100 2nd**
-
-### Deployment
-
-Please visit [https://chatapp-final-team-rice.herokuapp.com/](https://chatapp-final-team-rice.herokuapp.com/) to view our projects.
 
 ### Design Decisions
 
