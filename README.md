@@ -13,6 +13,8 @@
 ##### Developers
 
 **Chiao-Yu Pai**, **Letian Zhang**, **Yunan Zhou**
+#### Link
+Please visit https://chatapp-final-team-rice.herokuapp.com/ to view our projects.
 
 ### Design Decisions
 
